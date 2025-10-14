@@ -12,7 +12,7 @@ Currently an a Texh student with interest in:
 
 You can find me via:
 <p align="center">
-  <a href="www.linkedin.com/in/bildad-gitonga-3478b526b">
+  <a href="https://linkedin.com/in/bildad-gitonga-3478b526b">
     <img src="https://img.shields.io/badge/LinkedIn-blue">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bildadgitonga53@gmail.com">
